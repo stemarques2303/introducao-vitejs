@@ -14,6 +14,7 @@
             <Link to="/exemplo/2">Exemplo 2 - Uso de module CSS</Link>  
             <Link to="/exemplo/3">Exemplo 3 - Contador</Link>
             <Link to="/exemplo/4">Exemplo 4 - Uso de Componentes</Link>        
+            <Link to="/exemplo/5">Exemplo 5 - Formulário</Link>
           </div>
           
           <div className={styles.containerCards}>    
@@ -21,6 +22,7 @@
             <Link to="/atividade/1">Atividade 1 - Componente básico</Link>   
             <Link to="/atividade/2">Atividade 2 - Uso de module CSS </Link>
             <Link to="/atividade/3">Atividade 3 - Uso de Componentes</Link>
+            <Link to="/atividade/4">Atividade 4 - Formulário</Link>
           </div>
       </div>
     )
